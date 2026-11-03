@@ -1,4 +1,4 @@
-FROM ghcr.io/remsky/kokoro-fastapi-cpu:v0.9.2
+FROM ghcr.io/remsky/kokoro-fastapi-cpu:v0.9.2-lite
 
 ENV PORT=10000
 EXPOSE 10000
